@@ -1,0 +1,12 @@
+.header{
+    text-align: center;
+    background-color: red;
+}
+.grid{
+    background-image: 'origami.jpg';
+}
+.footer{
+    display:flex;
+    justify-content: flex-end;
+    background-color: greenyellow;
+}
